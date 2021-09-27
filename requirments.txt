@@ -1,0 +1,3 @@
+import os
+lib_1=os.popen("pip install Appium-Python-Client").read()
+print(lib_1)
